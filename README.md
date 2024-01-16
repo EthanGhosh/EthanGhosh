@@ -1,0 +1,3 @@
+- 👋 Hi, I’m EthanGhosh
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning python
